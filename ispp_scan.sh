@@ -2,7 +2,8 @@
 
 #################################
 #     ISPProtect Web Scanner    #
-# (c) 2015-2016 by ISPConfig UG #
+# (c) 2015-2016 by John Modica  #
+#        @ CybernetiX S3C       #
 #      all rights reserved      #
 #################################
 
@@ -57,7 +58,8 @@ echo "     \/  \/ \___|_.__/  |_____/ \___\__,_|_| |_|_| |_|\___|_|   " ;
 echo "                                                                " ;
 echo "                                              Version ${ISPPVER}    " ;
 echo "" ;
-echo "                 (c) 2015-$(date +%Y) by ISPConfig UG           " ;
+echo "                 (c) 2015-$(date +%Y) by John Modica            " ;
+echo "                        @ CybernetiX S3C                        " ;
 echo "                       all rights reserved                      " ;
 echo "" ;
 echo "" ;

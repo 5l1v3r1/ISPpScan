@@ -1,0 +1,15 @@
+
+  name: isppscan
+  version: '1.8'
+  summary: This is a tool designed to scan ISP for vuln.
+  description: |
+    This tool is designed to scan your ISP for vuln.
+
+  grade: stable
+  confinement: strict
+
+  parts:
+    my-part:
+      # See 'snapcraft plugins'
+      plugin: nil
+  

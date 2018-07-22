@@ -5,8 +5,8 @@
   description: |
     This tool is designed to scan your ISP for vuln.
 
-  grade: 'stable'
-  confinement: 'strict'
+  grade: stable
+  confinement: strict
 
   parts:
     my-part:
